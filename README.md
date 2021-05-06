@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Peixi (Alex) Lin.
-- 👀 I’m interested in Badminton, coding, and gaming.
+- 👀 I’m interested in badminton, coding, and gaming.
 - 🌱 I’m currently studying at the University of Waterloo.
 - 📫 How to reach me: linpeixi@gmail.com
 
